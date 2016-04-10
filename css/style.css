@@ -4,6 +4,11 @@ p {
 
 .banner h1 {
 	font-size: 30pt;
+	margin-bottom: 0px;
+}
+
+.banner h2 {
+	margin-top: 5px;
 }
 
 .banner h1, .banner h2 {
