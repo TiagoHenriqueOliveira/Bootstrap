@@ -1,0 +1,38 @@
+p {
+	padding-top: 10px;
+}
+
+.banner h1 {
+	font-size: 30pt;
+}
+
+.banner h1, .banner h2 {
+	color: white;
+}
+
+.banner button {
+	margin: 5px;
+	width: 100px;
+}
+
+li {
+	display: inline-block;
+	list-style: none;
+	padding: 10px;
+	text-align: center;
+}
+
+li:hover {
+	text-decoration: underline;
+	transition: background-color 1s;
+	background-color: #dddddd;
+}
+
+.banner {
+	background-image: url(../image/intro-bg.jpg);
+	height: 400px;
+	background-position: center;
+	background-size: cover;
+	padding-top: 90px;
+	text-align: center;
+}
