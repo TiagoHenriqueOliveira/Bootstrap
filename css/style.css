@@ -2,6 +2,10 @@ p {
 	padding-top: 10px;
 }
 
+button {
+	border-radius: 10px;
+}
+
 .into h1 {
 	font-size: 30pt;
 	margin-bottom: 0px;
@@ -21,7 +25,10 @@ p {
 
 .into button {
 	margin: 5px;
-	width: 100px;
+	width: 115px;
+	height: 40px;
+	text-align: center;
+	background-color: #FFFFFF;
 }
 
 li {
@@ -81,9 +88,20 @@ img {
 	margin: 5px;
 	width: 100px;
 	text-align: center;
-	float: right;
+	float: left;
 }
 
 .botoes {
-	padding: 40px;
+	padding: 35px;
+}
+
+.botoes button {
+	margin: 5px;
+	width: 115px;
+	height: 40px;
+	background-color: #FFFFFF;
+}
+
+.footer ul, p {
+	padding-left: 60px;
 }
