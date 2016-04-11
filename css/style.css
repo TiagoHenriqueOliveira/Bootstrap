@@ -2,20 +2,20 @@ p {
 	padding-top: 10px;
 }
 
-.banner h1 {
+.into h1 {
 	font-size: 30pt;
 	margin-bottom: 0px;
 }
 
-.banner h2 {
+.into h2 {
 	margin-top: 5px;
 }
 
-.banner h1, .banner h2 {
+.into h1, .into h2 {
 	color: white;
 }
 
-.banner button {
+.into button {
 	margin: 5px;
 	width: 100px;
 }
@@ -33,7 +33,7 @@ li:hover {
 	background-color: #dddddd;
 }
 
-.banner {
+.into {
 	background-image: url(../image/intro-bg.jpg);
 	height: 400px;
 	background-position: center;
@@ -41,3 +41,22 @@ li:hover {
 	padding-top: 90px;
 	text-align: center;
 }
+
+.fundo-cinza {
+	background-color: #EEEEEE;
+	border-top: #DDDDDD solid 2px;
+	border-bottom: #DDDDDD solid 2px;
+}
+
+h2 {
+	padding-top: 80px;
+	padding-left: 15px;
+	margin-bottom: 0px;
+	font-size: 20pt;
+}
+
+img {
+	padding: 40px 0px;
+}
+
+
