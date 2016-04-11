@@ -9,6 +9,10 @@ p {
 
 .into h2 {
 	margin-top: 5px;
+	padding-top: 0px;
+	padding-left: 0px;
+	margin-bottom: 20px;
+	font-size: 16pt;
 }
 
 .into h1, .into h2 {
@@ -59,4 +63,27 @@ img {
 	padding: 40px 0px;
 }
 
+.banner {
+	background-image: url(../image/banner-bg.jpg);
+	height: 300px;
+	background-position: center;
+	background-size: cover;
+	padding-top: 90px;
+}
 
+.banner h1 {
+	color: #FFFFFF;
+	font-size: 30pt;
+	margin-left: 50px;
+}
+
+.banner button {
+	margin: 5px;
+	width: 100px;
+	text-align: center;
+	float: right;
+}
+
+.botoes {
+	padding: 40px;
+}
